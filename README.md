@@ -1,2 +1,3 @@
 # DecisionTrees
-Apikacja służąca do budowy i pracy z drzewami decyzyjnymi typu C4.5 
+My History - 1st App
+An application for building and working with C4.5 type decision trees.

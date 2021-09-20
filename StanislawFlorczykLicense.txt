@@ -1,0 +1,24 @@
+Stanisław Florczyk License Version 1.0
+
+Copyright (c) 2021 Stanisław Florczyk 
+
+1. Definitions:
+	1.1. "License" means this document
+	1.2. "Licensor" means Stanisław Florczyk
+	1.3. "Work" shall mean the work of authorship, whether in Source or Object form, made available under 
+		the License, as indicated by a copyright notice that is included in or attached to the work.
+	1.3. "You" (or "Your") shall mean an individual or a legal entity exercising rights under this License.
+
+2. Grant of Copyright License.
+	2.1. Permission is hereby granted, to any person obtaining a copy of this software and associated 
+		documentation files. The license allows to use and modify the Work. The Licence does not allow 
+		to publish, distribute, sublicense, and/or sell copies of the software and associated files.
+	
+	2.2. This License does not grant permission to use the trademarks, or product names of the Licensor, 
+		except as required for reasonable and customary use in describing the origin of the Work.
+
+The above copyright notice and this permission notice shall be included in all copies of the Work.
+
+THE SOFTWARE IS PROVIDED WITHOUT WARRANTY OF ANY KIND, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES 
+OR OTHER LIABILITY, ARISING FROM CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS WITH THE SOFTWARE.
